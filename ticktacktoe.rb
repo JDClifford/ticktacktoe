@@ -97,4 +97,4 @@ def new_game #Gives the player the option to start a new game or quit
 	end
 end
 
-new_gamen
+new_game
